@@ -53,9 +53,7 @@ C’est un cercle vertueux qui devrait diminuer les pertes financières et aider
 - Gestion de projet : Utilisation de Git et GitHub pour le versioning.
 
 ## Fichiers dans le dépôt
-- Mémoire_Kickstarter.py: Script Python pour le traitement des données.
-- PowerBI_predictions_full.csv: Jeu de données utilisé pour l'analyse.
-- Kickstarter.pbix : Rapport Power Bi
+- Mémoire_Kickstarter.ipynb: Script Python pour le traitement des données.
 - Mémoire_Kickstarter_RAPPORT EXPLORATOIRE.pdf : Mémoire rédigé dans le cadre de ce projet individuel.
 - key_visualizations_analysis.png : dataviz python
 - feature_importances.png : analyse des 3 algorithmes pour identifier les features les plus importantes (insights)
