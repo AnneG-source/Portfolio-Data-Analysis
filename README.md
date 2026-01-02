@@ -54,7 +54,8 @@ C’est un cercle vertueux qui devrait diminuer les pertes financières et aider
 
 ## Fichiers dans le dépôt
 Mémoire_Kickstarter.py: Script Python pour le traitement des données.
-ventes_fictives.csv: Jeu de données utilisé pour l'analyse.
+PowerBI_predictions_full.csv: Jeu de données utilisé pour l'analyse.
+Kickstarter.pbix : Rapport Power Bi
 
 
 
